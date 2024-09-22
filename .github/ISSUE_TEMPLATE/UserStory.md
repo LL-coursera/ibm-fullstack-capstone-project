@@ -2,7 +2,7 @@
 name: User Story Template
 about: A template for creating user stories
 title: ''
-labels: enhancement
+labels: new
 assignees: ''
 
 ---
